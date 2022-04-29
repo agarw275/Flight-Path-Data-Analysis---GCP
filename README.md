@@ -1,0 +1,2 @@
+Analysing Archived, Streaming flight data, Tweets and predicting whether the flights be delayed or not and what time are they expecting to reach and does Tweeet any have effect on flight on Google Cloud Platform where I created the entire pipeline and simultaneously performed analysis on Big Query 
+<img width="1067" alt="image" src="https://user-images.githubusercontent.com/97696313/165976528-2ed95840-9a7c-445f-90f8-4dd10a4096e6.png">
